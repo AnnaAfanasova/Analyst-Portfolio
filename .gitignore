@@ -1,9 +1,0 @@
-
-.DS_Store
-.vscode/
-data/
-
-__pycache__/
-*.pyc
-*.pyo
-.ipynb_checkpoints/
