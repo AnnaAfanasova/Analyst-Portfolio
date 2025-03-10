@@ -1,4 +1,7 @@
-    SQL:
+    A/b testing:
+	    Marketing campain
+	
+	SQL:
         Chinook Data Base:
 	        - Create DB
 	        - Data Definition (DDL)
